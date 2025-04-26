@@ -105,8 +105,8 @@ Modela a estrutura da resposta JSON da API:
 2. Abra no Android Studio
 3. Execute o projeto em um emulador ou dispositivo real
 
----
+## 📷 Screenshots
 
-## 📄 Licença
+[![Captura-de-tela-2025-04-25-233843.png](https://i.postimg.cc/gJsLhJWS/Captura-de-tela-2025-04-25-233843.png)](https://postimg.cc/DJWzk7mL)
+[![Captura-de-tela-2025-04-25-233901.png](https://i.postimg.cc/j2R98MBq/Captura-de-tela-2025-04-25-233901.png)](https://postimg.cc/mz68kybK)
 
-Este projeto está licenciado sob a [MIT License](LICENSE).
